@@ -21,7 +21,7 @@ One of the best ways to study for term 2 is just to sharpen your JavaScript skil
 
 In rough order, but take them as you please:
 
-1. [Objectively Funcy](https://github.com/ci-wdi-900/objectively-funcy)
+* [Objectively Funcy](https://github.com/ci-wdi-900/objectively-funcy)
 * [Method Function Kill](https://github.com/ci-wdi-900/method-function-kill)
 * [Datasaur](https://github.com/abbreviatedman/datasaur) (and its evolved version)
 * [DOMosaur](https://github.com/abbreviatedman/domosaur)
